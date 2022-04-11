@@ -1,7 +1,7 @@
 ### Olá! Eu me chamo Lucas Emmanuel e sou estudante da Universidade Federal de Campina Grande.
 
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasemmanuelsa&show_icons=true&theme=dark)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasemmanuelsa&show_icons=true&theme=black)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasemmanuelsa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
