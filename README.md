@@ -26,8 +26,8 @@
 <br>
   <h2 align="center">Github statistics </h3>
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasemmanuelsa&show_icons=true&theme=black">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasemmanuelsa&layout=compact&theme=black">
+  <img height="130" src="https://github-readme-stats.vercel.app/api?username=lucasemmanuelsa&show_icons=true&theme=black">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasemmanuelsa&layout=compact&theme=black">
 </div>
     
 <hr>
