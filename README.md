@@ -24,10 +24,10 @@
   <img alt="lucas-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   
 <br>
-  <h2 align="center">Github Stats</h2>
-<div style="text-align: center;">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasemmanuelsa&show_icons=true&theme=black&card_width=300px&line_height=20&layout=compact" alt="Github Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasemmanuelsa&layout=compact" alt="Github">
+  <h2 align="center">Github statistics </h3>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasemmanuelsa&show_icons=true&theme=black">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasemmanuelsa&layout=compact&theme=black">
 </div>
     
 <hr>
