@@ -3,7 +3,6 @@
 <a href="https://cdn.discordapp.com/attachments/1004915442869096479/1066502269446660186/Ruffles.png"><img alt="lucas's-dog" height="200" width="200" border="0" align="right" background-color="transparent" src="https://cdn.discordapp.com/attachments/1004915442869096479/1066502269446660186/Ruffles.png"></a>
 
 <h2>About me</h2>
-<hr>
 
 - Student at Universidade Federal de Campina Grande (UFCG)
 
@@ -30,15 +29,12 @@
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasemmanuelsa&layout=compact&theme=black">
 </div>
     
-<hr>
 <br>
-
-
+<hr>
 
 [![An image of @lucasemmanuelsa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lucasemmanuelsa)](https://holopin.io/@lucasemmanuelsa)
 
 ## Contact
-<hr>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-emmanuel-597840218/)
