@@ -28,11 +28,6 @@
   <img height="130" src="https://github-readme-stats.vercel.app/api?username=lucasemmanuelsa&show_icons=true&theme=black">
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasemmanuelsa&layout=compact&theme=black">
 </div>
-    
-<br>
-<hr>
-
-[![An image of @lucasemmanuelsa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lucasemmanuelsa)](https://holopin.io/@lucasemmanuelsa)
 
 ## Contact
 
